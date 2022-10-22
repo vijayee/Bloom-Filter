@@ -16,10 +16,10 @@
   ],
   "info": {
     "description": "Bloom filter",
-    "homepage": "https://github.com/vijayee/Bitset",
+    "homepage": "https://github.com/vijayee/Bloom-Filter",
     "license": "GPLv3",
     "documentation_url": "",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "name": "Bitset"
   }
 }
