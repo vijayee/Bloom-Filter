@@ -54,3 +54,5 @@ class iso _TestBloomFilter is UnitTest
     for key in fixtures.values() do
       t.assert_true(bloom.contains(key))
     end
+
+    t.assert_false(bloom.contains(recover val RandomBytes(size) end))
