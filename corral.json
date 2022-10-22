@@ -1,0 +1,25 @@
+{
+  "packages": [
+    "Bloom_Filter"
+  ],
+  "deps": [
+    {
+      "locator": "github.com/vijayee/Bitset.git",
+      "version": "0.0.2"
+
+    },
+    {
+      "locator": "github.com/vijayee/Murmur3.git",
+      "version": "0.0.2"
+
+    }
+  ],
+  "info": {
+    "description": "Bloom filter",
+    "homepage": "https://github.com/vijayee/Bitset",
+    "license": "GPLv3",
+    "documentation_url": "",
+    "version": "0.0.1",
+    "name": "Bitset"
+  }
+}

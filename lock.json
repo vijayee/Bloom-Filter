@@ -1,0 +1,20 @@
+{
+  "locks": [
+    {
+      "locator": "github.com/vijayee/Murmur3.git",
+      "revision": "0.0.2"
+    },
+    {
+      "locator": "github.com/vijayee/Bitset.git",
+      "revision": "0.0.2"
+    },
+    {
+      "locator": "github.com/vijayee/Print.git",
+      "revision": "0.0.1"
+    },
+    {
+      "locator": "github.com/vijayee/Buffer.git",
+      "revision": "0.1.5"
+    }
+  ]
+}
